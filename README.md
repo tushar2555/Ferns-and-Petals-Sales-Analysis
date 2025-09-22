@@ -57,14 +57,8 @@ The main objective is to answer critical business questions that can help optimi
 ## 📷 Dashboard Preview
 Here’s a preview of the Excel dashboard (add your screenshots in the `images/` folder of the repo and update the links):  
 
-![Dashboard Overview](images/dashboard-overview.png)  
+![Dashboard Overview](https://github.com/tushar2555/Ferns-and-Petals-Sales-Analysis/blob/main/Dashboard%20Image.jpg)  
 *Overall sales insights and KPIs*  
-
-![Sales by Occasion](images/sales-by-occasion.png)  
-*Revenue comparison across occasions*  
-
-![Top Cities and Products](images/top-cities-products.png)  
-*Top cities by orders and top products by revenue*  
 
 ---
 
