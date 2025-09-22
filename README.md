@@ -8,12 +8,16 @@ The aim is to create a **business-ready Excel dashboard** that supports data-dri
 ---
 
 ## 🎯 Objectives  
-- Calculate **total revenue** and analyze customer spending behavior.  
-- Study **monthly sales trends** to identify seasonal patterns.  
-- Find the **top products** and **top cities** by sales and orders.  
-- Compare **revenue across occasions** (Diwali, Raksha Bandhan, Holi, Valentine’s Day, etc.).  
-- Analyze the relationship between **order quantity and delivery time**.  
-- Build an **interactive Excel dashboard** for insights.  
+- Calculate **total revenue**.  
+- Evaluate the **average order and delivery time**.  
+- Analyze **monthly sales performance** in 2023.  
+- Identify the **top products by revenue**.  
+- Study **customer spending behavior**.  
+- Track the **sales performance of top 5 products**.  
+- Find the **top 10 cities by number of orders**.  
+- Analyze whether **order quantity impacts delivery time**.  
+- Compare **revenue across different occasions**.  
+- Identify the **most popular products by occasion**.    
 
 ---
 
@@ -36,9 +40,9 @@ The aim is to create a **business-ready Excel dashboard** that supports data-dri
 ---
 
 ## 📂 Project Files  
-- `Main Project.xlsx` → [Excel Dashboard File](#)  
-- `Ferns and Petals Sales Analysis.pdf` → [Project Report](#)  
-- `Dashboard Screenshot.png` → ![Dashboard Image](images/dashboard-overview.png)  
+- `Ferns and Petals Data Analysis.xlsx` → [Excel Dashboard File](https://github.com/tushar2555/Ferns-and-Petals-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Data%20Analysis.xlsx)  
+- `Ferns and Petals Sales Analysis.pdf` → [Project Report](https://github.com/tushar2555/Ferns-and-Petals-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf)  
+- `Dashboard Screenshot.png` → ![Dashboard Image](https://github.com/tushar2555/Ferns-and-Petals-Sales-Analysis/blob/main/Dashboard%20Image.jpg)  
 
 ---
 
